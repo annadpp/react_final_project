@@ -1,0 +1,37 @@
+.Weather {
+  border: 0.2em solid #30302d;
+  padding: 5%;
+  margin: 5% auto;
+  box-shadow: 1.2em 1.2em #30302d;
+  background: #f9f3e5;
+}
+
+.Weather h1 {
+  margin: 2% 0;
+}
+
+.Weather img {
+  margin-right: 2%;
+}
+
+.Weather li {
+  list-style: none;
+}
+
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Weather .temp {
+  font-weight: bold;
+  font-size: 4em;
+  line-height: 1em;
+}
+
+.Weather .unit {
+  font-size: 1.2em;
+  position: relative;
+  top: -1.8em;
+  font-weight: 600;
+}
