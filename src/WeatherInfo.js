@@ -31,12 +31,12 @@ export default function WeatherInfo(props) {
         <div className="col-6">
           <ul>
             <li className="right">
-              <img src="https://i.ibb.co/ZBxG7Z8/humid.png"></img>
+              <img src="https://i.ibb.co/ZBxG7Z8/humid.png" alt="humid"></img>
               Humidity: {props.data.humid} %
             </li>
             <li className="right">
-              <img src="https://i.ibb.co/bRWZDMf/wind.png"></img>Wind:{" "}
-              {props.data.wind} km/h
+              <img src="https://i.ibb.co/bRWZDMf/wind.png" alt="wind"></img>
+              Wind: {props.data.wind} km/h
             </li>
           </ul>
         </div>
