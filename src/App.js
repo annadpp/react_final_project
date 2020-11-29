@@ -10,15 +10,17 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.linkedin.com/in/annadepablopuig/"
             target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/annadepablopuig/"
           >
             Anna de Pablo Puig
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/annadpp/react_final_project"
             target="_blank"
+            rel="noopener noreferrer"
+            href="https://github.com/annadpp/react_final_project"
           >
             open-sourced on GitHub
           </a>
