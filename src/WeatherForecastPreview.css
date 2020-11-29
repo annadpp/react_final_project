@@ -1,0 +1,19 @@
+.WeatherForecastPreview {
+  text-align: center;
+  border: 0.3em solid #30302d;
+  box-shadow: 0.5em 0.5em #30302d;
+  width: 90%;
+  margin: 2%;
+}
+
+.WeatherForecastPreview.col {
+  padding-top: 1.5%;
+}
+
+.WeatherForecastPreview img {
+  width: 3.5em;
+  margin: 2% auto;
+  filter: drop-shadow(0.1em 0.1em #30302d);
+  padding: 1%;
+  display: block;
+}

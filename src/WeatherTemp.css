@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Asap:wght@400&display=swap");
+
+.WeatherTemp {
+  margin: 10%;
+  width: 120%;
+  font-size: 1.5em;
+}
+
+.WeatherTemp a {
+  color: #30302d;
+  font-weight: 400;
+}
